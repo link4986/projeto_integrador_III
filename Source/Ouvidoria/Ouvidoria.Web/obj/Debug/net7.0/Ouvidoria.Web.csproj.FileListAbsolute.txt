@@ -1,0 +1,58 @@
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Web\bin\Debug\net7.0\appsettings.json
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Web\bin\Debug\net7.0\Ouvidoria.Web.staticwebassets.runtime.json
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Web\bin\Debug\net7.0\Ouvidoria.Web.exe
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Web\bin\Debug\net7.0\Ouvidoria.Web.deps.json
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Web\bin\Debug\net7.0\Ouvidoria.Web.runtimeconfig.json
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Web\bin\Debug\net7.0\Ouvidoria.Web.dll
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Web\bin\Debug\net7.0\Ouvidoria.Web.pdb
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\Ouvidoria.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\Ouvidoria.Web.AssemblyInfoInputs.cache
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\Ouvidoria.Web.AssemblyInfo.cs
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\Ouvidoria.Web.csproj.CoreCompileInputs.cache
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\Ouvidoria.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\Ouvidoria.Web.RazorAssemblyInfo.cache
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\Ouvidoria.Web.RazorAssemblyInfo.cs
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\staticwebassets\msbuild.Ouvidoria.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.Ouvidoria.Web.props
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Ouvidoria.Web.props
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Ouvidoria.Web.props
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\scopedcss\bundle\Ouvidoria.Web.styles.css
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\Ouvidoria.Web.dll
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\refint\Ouvidoria.Web.dll
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\Ouvidoria.Web.pdb
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\Ouvidoria.Web.genruntimeconfig.cache
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\ref\Ouvidoria.Web.dll
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Web\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Web\bin\Debug\net7.0\appsettings.json
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Web\bin\Debug\net7.0\Ouvidoria.Web.staticwebassets.runtime.json
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Web\bin\Debug\net7.0\Ouvidoria.Web.exe
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Web\bin\Debug\net7.0\Ouvidoria.Web.deps.json
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Web\bin\Debug\net7.0\Ouvidoria.Web.runtimeconfig.json
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Web\bin\Debug\net7.0\Ouvidoria.Web.dll
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Web\bin\Debug\net7.0\Ouvidoria.Web.pdb
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\Ouvidoria.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\Ouvidoria.Web.AssemblyInfoInputs.cache
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\Ouvidoria.Web.AssemblyInfo.cs
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\Ouvidoria.Web.csproj.CoreCompileInputs.cache
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\Ouvidoria.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\Ouvidoria.Web.RazorAssemblyInfo.cache
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\Ouvidoria.Web.RazorAssemblyInfo.cs
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\staticwebassets\msbuild.Ouvidoria.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\staticwebassets\msbuild.build.Ouvidoria.Web.props
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Ouvidoria.Web.props
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Ouvidoria.Web.props
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\scopedcss\bundle\Ouvidoria.Web.styles.css
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\scopedcss\projectbundle\Ouvidoria.Web.bundle.scp.css
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\Ouvidoria.Web.dll
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\refint\Ouvidoria.Web.dll
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\Ouvidoria.Web.pdb
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\Ouvidoria.Web.genruntimeconfig.cache
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Web\obj\Debug\net7.0\ref\Ouvidoria.Web.dll

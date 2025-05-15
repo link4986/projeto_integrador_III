@@ -1,0 +1,214 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\eduardo\\Desktop\\UNIVESP\\projeto_integrador1\\Source\\Ouvidoria\\Ouvidoria.Application\\Ouvidoria.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\eduardo\\Desktop\\UNIVESP\\projeto_integrador1\\Source\\Ouvidoria\\Ouvidoria.Application\\Ouvidoria.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eduardo\\Desktop\\UNIVESP\\projeto_integrador1\\Source\\Ouvidoria\\Ouvidoria.Application\\Ouvidoria.Application.csproj",
+        "projectName": "Ouvidoria.Application",
+        "projectPath": "C:\\Users\\eduardo\\Desktop\\UNIVESP\\projeto_integrador1\\Source\\Ouvidoria\\Ouvidoria.Application\\Ouvidoria.Application.csproj",
+        "packagesPath": "C:\\Users\\eduardo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eduardo\\Desktop\\UNIVESP\\projeto_integrador1\\Source\\Ouvidoria\\Ouvidoria.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eduardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\eduardo\\Desktop\\UNIVESP\\projeto_integrador1\\Source\\Ouvidoria\\Ouvidoria.Domain\\Ouvidoria.Domain.csproj": {
+                "projectPath": "C:\\Users\\eduardo\\Desktop\\UNIVESP\\projeto_integrador1\\Source\\Ouvidoria\\Ouvidoria.Domain\\Ouvidoria.Domain.csproj"
+              },
+              "C:\\Users\\eduardo\\Desktop\\UNIVESP\\projeto_integrador1\\Source\\Ouvidoria\\Ouvidoria.Infrastructure\\Ouvidoria.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\eduardo\\Desktop\\UNIVESP\\projeto_integrador1\\Source\\Ouvidoria\\Ouvidoria.Infrastructure\\Ouvidoria.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\eduardo\\Desktop\\UNIVESP\\projeto_integrador1\\Source\\Ouvidoria\\Ouvidoria.Domain\\Ouvidoria.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eduardo\\Desktop\\UNIVESP\\projeto_integrador1\\Source\\Ouvidoria\\Ouvidoria.Domain\\Ouvidoria.Domain.csproj",
+        "projectName": "Ouvidoria.Domain",
+        "projectPath": "C:\\Users\\eduardo\\Desktop\\UNIVESP\\projeto_integrador1\\Source\\Ouvidoria\\Ouvidoria.Domain\\Ouvidoria.Domain.csproj",
+        "packagesPath": "C:\\Users\\eduardo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eduardo\\Desktop\\UNIVESP\\projeto_integrador1\\Source\\Ouvidoria\\Ouvidoria.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eduardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\eduardo\\Desktop\\UNIVESP\\projeto_integrador1\\Source\\Ouvidoria\\Ouvidoria.Infrastructure\\Ouvidoria.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eduardo\\Desktop\\UNIVESP\\projeto_integrador1\\Source\\Ouvidoria\\Ouvidoria.Infrastructure\\Ouvidoria.Infrastructure.csproj",
+        "projectName": "Ouvidoria.Infrastructure",
+        "projectPath": "C:\\Users\\eduardo\\Desktop\\UNIVESP\\projeto_integrador1\\Source\\Ouvidoria\\Ouvidoria.Infrastructure\\Ouvidoria.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\eduardo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eduardo\\Desktop\\UNIVESP\\projeto_integrador1\\Source\\Ouvidoria\\Ouvidoria.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eduardo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 18.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 18.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\eduardo\\Desktop\\UNIVESP\\projeto_integrador1\\Source\\Ouvidoria\\Ouvidoria.Domain\\Ouvidoria.Domain.csproj": {
+                "projectPath": "C:\\Users\\eduardo\\Desktop\\UNIVESP\\projeto_integrador1\\Source\\Ouvidoria\\Ouvidoria.Domain\\Ouvidoria.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

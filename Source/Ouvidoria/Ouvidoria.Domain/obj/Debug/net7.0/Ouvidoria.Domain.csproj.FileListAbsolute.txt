@@ -1,0 +1,22 @@
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Domain\obj\Debug\net7.0\Ouvidoria.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Domain\obj\Debug\net7.0\Ouvidoria.Domain.AssemblyInfoInputs.cache
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Domain\obj\Debug\net7.0\Ouvidoria.Domain.AssemblyInfo.cs
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Domain\obj\Debug\net7.0\Ouvidoria.Domain.csproj.CoreCompileInputs.cache
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Domain\bin\Debug\net7.0\Ouvidoria.Domain.deps.json
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Domain\bin\Debug\net7.0\Ouvidoria.Domain.dll
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Domain\bin\Debug\net7.0\Ouvidoria.Domain.pdb
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Domain\obj\Debug\net7.0\Ouvidoria.Domain.dll
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Domain\obj\Debug\net7.0\refint\Ouvidoria.Domain.dll
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Domain\obj\Debug\net7.0\Ouvidoria.Domain.pdb
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Domain\obj\Debug\net7.0\ref\Ouvidoria.Domain.dll
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Domain\bin\Debug\net7.0\Ouvidoria.Domain.deps.json
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Domain\bin\Debug\net7.0\Ouvidoria.Domain.dll
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Domain\bin\Debug\net7.0\Ouvidoria.Domain.pdb
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Domain\obj\Debug\net7.0\Ouvidoria.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Domain\obj\Debug\net7.0\Ouvidoria.Domain.AssemblyInfoInputs.cache
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Domain\obj\Debug\net7.0\Ouvidoria.Domain.AssemblyInfo.cs
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Domain\obj\Debug\net7.0\Ouvidoria.Domain.csproj.CoreCompileInputs.cache
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Domain\obj\Debug\net7.0\Ouvidoria.Domain.dll
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Domain\obj\Debug\net7.0\refint\Ouvidoria.Domain.dll
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Domain\obj\Debug\net7.0\Ouvidoria.Domain.pdb
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Domain\obj\Debug\net7.0\ref\Ouvidoria.Domain.dll

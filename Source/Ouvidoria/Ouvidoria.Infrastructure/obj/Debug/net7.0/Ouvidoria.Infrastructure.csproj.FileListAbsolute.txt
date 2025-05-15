@@ -1,0 +1,19 @@
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Infrastructure\obj\Debug\net7.0\Ouvidoria.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Infrastructure\obj\Debug\net7.0\Ouvidoria.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Infrastructure\obj\Debug\net7.0\Ouvidoria.Infrastructure.AssemblyInfo.cs
+C:\Users\eduardo\Desktop\UNIVESP\Projeto Integrador I\Source\Ouvidoria\Ouvidoria.Infrastructure\obj\Debug\net7.0\Ouvidoria.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Infrastructure\obj\Debug\net7.0\Ouvidoria.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Infrastructure\obj\Debug\net7.0\Ouvidoria.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Infrastructure\obj\Debug\net7.0\Ouvidoria.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Infrastructure\obj\Debug\net7.0\Ouvidoria.Infrastructure.AssemblyInfo.cs
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Infrastructure\obj\Debug\net7.0\Ouvidoria.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Infrastructure\bin\Debug\net7.0\Ouvidoria.Infrastructure.deps.json
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Infrastructure\bin\Debug\net7.0\Ouvidoria.Infrastructure.dll
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Infrastructure\bin\Debug\net7.0\Ouvidoria.Infrastructure.pdb
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Infrastructure\bin\Debug\net7.0\Ouvidoria.Domain.dll
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Infrastructure\bin\Debug\net7.0\Ouvidoria.Domain.pdb
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Infrastructure\obj\Debug\net7.0\Ouvidoria.Infrastructure.csproj.CopyComplete
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Infrastructure\obj\Debug\net7.0\Ouvidoria.Infrastructure.dll
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Infrastructure\obj\Debug\net7.0\refint\Ouvidoria.Infrastructure.dll
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Infrastructure\obj\Debug\net7.0\Ouvidoria.Infrastructure.pdb
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Infrastructure\obj\Debug\net7.0\ref\Ouvidoria.Infrastructure.dll

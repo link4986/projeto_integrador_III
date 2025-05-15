@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <title>Registro de Reclamação - Sistema de Ouvidoria</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <div class="container">
+            <a class="navbar-brand" href="#">Sistema de Ouvidoria</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav ml-auto">
+                    <li class="nav-item">
+                        <a class="nav-link" href="Painel-Morador-Home.html">
+                            <i class="fas fa-home"></i> Início
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link active" href="Painel-Morador-Reclamar.html">
+                            <i class="fas fa-comments"></i> Reclamar
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Painel-Morador-Configuracoes.html">
+                            <i class="fas fa-cog"></i> Configurações
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Login.html">
+                            <i class="fas fa-sign-out-alt"></i> Sair
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <div class="container">
+        <div class="row justify-content-center mt-5">
+            <div class="col-md-8">
+                <div class="card">
+                    <div class="card-header bg-primary text-white">Registro de Reclamação</div>
+                    <div class="card-body">
+                        <form id="complaintForm" enctype="multipart/form-data">
+                            <div class="form-group">
+                                <label for="complaintType">Tipo de Reclamação</label>
+                                <select class="form-control" id="complaintType">
+                                    <option value="Denúncia">Denúncia</option>
+                                    <option value="Reclamação">Reclamação</option>
+                                    <option value="Sugestão">Sugestão</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label for="subject">Assunto</label>
+                                <input type="text" class="form-control" id="subject" placeholder="Digite o assunto da reclamação">
+                                <small class="form-text text-danger" id="subjectError"></small>
+                            </div>
+                            <div class="form-group">
+                                <label for="message">Mensagem</label>
+                                <textarea class="form-control" id="message" rows="5" placeholder="Digite sua mensagem"></textarea>
+                                <small class="form-text text-danger" id="messageError"></small>
+                            </div>
+                            <div class="form-group form-check">
+                                <input type="checkbox" class="form-check-input" id="notification">
+                                <label class="form-check-label" for="notification">Desejo ser notificado sobre esta reclamação</label>
+                            </div>
+                            <div class="form-group" id="contactInput" style="display: none;">
+                                <label for="contact">Informe seu contato (email ou WhatsApp)</label>
+                                <input type="text" class="form-control" id="contact">
+                                <small class="form-text text-danger" id="contactError"></small>
+                            </div>
+                            <div class="form-group">
+                                <label for="media">Fotos ou Vídeos</label>
+                                <input type="file" class="form-control-file" id="media" name="media" multiple accept="image/*,video/*">
+                                <small id="mediaHelp" class="form-text text-muted">Você pode selecionar várias fotos ou vídeos.</small>
+                            </div>
+                            <button type="submit" class="btn btn-primary btn-block">Enviar Reclamação</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Modal de confirmação de envio -->
+    <div class="modal fade" id="modalSucesso" tabindex="-1" aria-labelledby="modalSucessoLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="modalSucessoLabel">Reclamação Enviada</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body">
+                    Sua reclamação foi enviada com sucesso!
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+    <script>
+        document.getElementById('notification').addEventListener('change', function() {
+            var contactInput = document.getElementById('contactInput');
+            if (this.checked) {
+                contactInput.style.display = 'block';
+            } else {
+                contactInput.style.display = 'none';
+            }
+        });
+
+        document.getElementById('complaintForm').addEventListener('submit', function(event) {
+            event.preventDefault();
+            var isValid = true;
+
+            var subject = document.getElementById('subject');
+            var message = document.getElementById('message');
+            var contact = document.getElementById('contact');
+            var notification = document.getElementById('notification').checked;
+
+            // Reset errors
+            document.getElementById('subjectError').innerText = '';
+            document.getElementById('messageError').innerText = '';
+            document.getElementById('contactError').innerText = '';
+            subject.classList.remove('is-invalid');
+            message.classList.remove('is-invalid');
+            contact.classList.remove('is-invalid');
+
+            // Validate subject
+            if (subject.value.trim() === '') {
+                subject.classList.add('is-invalid');
+                document.getElementById('subjectError').innerText = 'Esse campo é obrigatório';
+                isValid = false;
+            }
+
+            // Validate message
+            if (message.value.trim() === '') {
+                message.classList.add('is-invalid');
+                document.getElementById('messageError').innerText = 'Esse campo é obrigatório';
+                isValid = false;
+            }
+
+            // Validate contact if notification is checked
+            if (notification && contact.value.trim() === '') {
+                contact.classList.add('is-invalid');
+                document.getElementById('contactError').innerText = 'Esse campo é obrigatório';
+                isValid = false;
+            }
+
+            if (isValid) {
+                $('#modalSucesso').modal('show');
+                setTimeout(function() {
+                    $('#modalSucesso').modal('hide');
+                    location.reload();
+                }, 2000);
+            }
+        });
+    </script>
+</body>
+</html>

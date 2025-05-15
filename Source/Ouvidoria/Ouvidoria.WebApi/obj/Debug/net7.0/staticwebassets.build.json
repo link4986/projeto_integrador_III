@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yHIwGM6+5Q75dDM1PSKXt7rgXRtt4O8TFDMq5+OZA3w=",
+  "Source": "Ouvidoria.WebApi",
+  "BasePath": "_content/Ouvidoria.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,17 @@
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Application\obj\Debug\net7.0\Ouvidoria.Application.csproj.AssemblyReference.cache
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Application\obj\Debug\net7.0\Ouvidoria.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Application\obj\Debug\net7.0\Ouvidoria.Application.AssemblyInfoInputs.cache
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Application\obj\Debug\net7.0\Ouvidoria.Application.AssemblyInfo.cs
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Application\obj\Debug\net7.0\Ouvidoria.Application.csproj.CoreCompileInputs.cache
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Application\bin\Debug\net7.0\Ouvidoria.Application.deps.json
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Application\bin\Debug\net7.0\Ouvidoria.Application.dll
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Application\bin\Debug\net7.0\Ouvidoria.Application.pdb
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Application\bin\Debug\net7.0\Ouvidoria.Domain.dll
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Application\bin\Debug\net7.0\Ouvidoria.Infrastructure.dll
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Application\bin\Debug\net7.0\Ouvidoria.Domain.pdb
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Application\bin\Debug\net7.0\Ouvidoria.Infrastructure.pdb
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Application\obj\Debug\net7.0\Ouvidoria.Application.csproj.CopyComplete
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Application\obj\Debug\net7.0\Ouvidoria.Application.dll
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Application\obj\Debug\net7.0\refint\Ouvidoria.Application.dll
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Application\obj\Debug\net7.0\Ouvidoria.Application.pdb
+C:\Users\eduardo\Desktop\UNIVESP\projeto_integrador1\Source\Ouvidoria\Ouvidoria.Application\obj\Debug\net7.0\ref\Ouvidoria.Application.dll
